@@ -1,6 +1,6 @@
 # Teia
 
-A one-file wiki (using TiddlyWiki) with some extra features to facilitate research writing and reading.
+A one-file wiki (using [TiddlyWiki](https://tiddlywiki.com/)) with some configuration and a few extra features to facilitate research writing and reading.
 
 ## How to use
 
@@ -15,6 +15,10 @@ You can use the folder in which your `index.html` file is located as the root of
 
 If you are using your wiki via a browser, you'll have to define your saving options in the `Settings > Saving` menu. The two best options there are to use either the *Download Saver*, which will download a new copy of the wiki to your computer, or the *GitHub (or GitLab) Saver*, which will commit any changes to a repository on that specific service.
 
-### Using your wiki via TiddlyDesktop
+### Using your wiki via [TiddlyDesktop](https://tiddlywiki.com/static/TiddlyDesktop.html)
 
-If you are using the TiddlyDesktop app, changes will be automatically saved in your local files. If you are using some versioning system, you can then commit your changes to a repository as usual.
+I recommend opening the wiki via the [TiddlyDesktop](https://tiddlywiki.com/static/TiddlyDesktop.html) app. I have found that it helped me to streamline saving changes and to avoid distractions on the internet.
+
+ When using the app, changes will be automatically saved in your local files. This avoids the need to always download a new version of your `index.html` file or to setup authentication tokens for GitHub (or GitLab). It also works well when offline.
+
+After saving your files locally, you can then commit your changes to a repository if you are using some versioning system (and maybe push to an online service). I strongly recommend you do this, so you can keep track of past versions and have organized back-ups.

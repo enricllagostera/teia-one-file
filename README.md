@@ -1,6 +1,6 @@
-# Teia - One file version
+# Teia - 1-file version
 
-A one-file wiki (using [TiddlyWiki](https://tiddlywiki.com/)) with an extra plugin (Teia) and a few extra features to facilitate research writing and reading.
+A 1-file wiki (using [TiddlyWiki](https://tiddlywiki.com/)) with an extra plugin (Teia) and a few other features to facilitate research writing and reading.
 
 ## How to use
 

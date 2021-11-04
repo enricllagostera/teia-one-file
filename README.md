@@ -4,4 +4,4 @@ A one-file wiki (using [TiddlyWiki](https://tiddlywiki.com/)) with an extra plug
 
 ## How to use
 
-Download the repo (`Code > Download ZIP`) and create a copy of the `empty-wiki.html` file. There you'll find more information.
+Download the repo (`Code > Download ZIP`), extract it and create a copy of the `empty-wiki.html` file. When you open it with the browser, you'll find more information about setup and use.
